@@ -1,0 +1,32 @@
+.day-col {
+  min-height: 200px;
+  padding: 8px;
+  background: #fff;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.event {
+  cursor: pointer;
+}
+
+/* CATEGORY COLORS */
+.event--academic {
+  background: #fff4e6;
+  border-left: 4px solid #fd7e14;
+}
+
+.event--meeting {
+  background: #e7f1ff;
+  border-left: 4px solid #0d6efd;
+}
+
+.event--club {
+  background: #e6fff4;
+  border-left: 4px solid #20c997;
+}
+
+.event--athletic {
+  background: #ffeaea;
+  border-left: 4px solid #dc3545;
+}
